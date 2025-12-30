@@ -57,6 +57,23 @@ Navigation between pages is handled using:
   * `Expanded`
   * `SingleChildScrollView`
 
+---
+
+## App Screenshots
+
+Pages implemented:
+
+* Home
+  
+  <img src="https://github.com/user-attachments/assets/c77ead37-749d-4a4d-a1f7-8eccd1af4678" width="260"/>
+
+* Detail Band Page
+  
+  <img src="https://github.com/user-attachments/assets/72b75ba7-d0aa-46c3-889d-10b815e6c0ac" width="260"/>
+  
+
+  ---
+
 ## 📥 How to Install and Run the Project
 
 Follow the steps below to run the project on your local machine.
