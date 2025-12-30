@@ -93,24 +93,3 @@ flutter run
 * **Material Design**
 * **Navigator**
 * **Stateless & Stateful Widgets**
-
----
-
-## 🎨 UI References
-
-UI inspiration was taken from:
-
-* Dribbble
-* Behance
-
-with a focus on a minimal and emotional music-themed design that represents the **Melancolic** concept.
-
----
-
-Kalau mau, aku bisa:
-
-* 🔹 Bikin **versi lebih “Expert-style”**
-* 🔹 Nambahin **penjelasan StatefulWidget biar reviewer aman**
-* 🔹 Sesuaiin **judul & wording biar kelihatan profesional**
-
-Tinggal bilang ✨
